@@ -1,0 +1,4 @@
+times = int(input("Kol-vo minut, provedennih v dushe: "))
+a = 12
+b = (a * times)
+print("Potrebuetsya " + str(b) + " butilok V = 0,5 liter")
